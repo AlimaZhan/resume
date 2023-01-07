@@ -1,0 +1,24 @@
+@media all and (max-width: 768px) {
+  .navbar__list {
+    width: 106%;
+  }
+  .advantage {
+    flex-wrap: wrap;
+  }
+}
+@media all and (max-width: 426px) {
+  .photo {
+    margin-left: 20%;
+  }
+  .left_bottom > h2 {
+    font-size: 10px;
+    margin-left: 3%;
+  }
+  .right_h {
+    margin-left: 0px;
+    font-size: 30px;
+  }
+  .photo1 {
+    margin-left: 0%;
+  }
+}
